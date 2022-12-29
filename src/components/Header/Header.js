@@ -18,7 +18,7 @@ const Header = () => {
             <a href="/" className="header__logo">
                <img
                   src={logo}
-                  alt="AMA Bank - Home"
+                  alt="Pxtch"
                   className="header__logo__image"
                />
                <span className="header__logo__text"></span>
